@@ -29,6 +29,7 @@ Includes:
 ---
 
 ## 🏗️ Project Structure
+```
 project/
 │
 ├── app.py                  # Main Streamlit application
@@ -38,7 +39,7 @@ project/
 ├── bg.jpeg                 # Background image
 ├── mentalbert_model/       # Saved fine-tuned model
 └── README.md
-
+```
 
 ---
 
