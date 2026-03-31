@@ -81,7 +81,7 @@ project/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/whatsapp-chat-analyzer.git
+git clone https://github.com/Aniruddha2865/whatsapp-chat-analyzer.git
 cd whatsapp-chat-analyzer
 pip install -r requirements.txt
 
