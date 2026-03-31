@@ -32,13 +32,16 @@ Includes:
 ```
 project/
 │
-├── app.py                  # Main Streamlit application
-├── helper.py               # Chat analysis functions
-├── preprocessor.py         # Chat parsing and preprocessing
-├── stop_hinglish.txt       # Custom stopword list
-├── bg.jpeg                 # Background image
-├── mentalbert_model/       # Saved fine-tuned model
-└── README.md
+├── mentalbert_model/               # Saved fine-tuned BERT model
+├── app.py                          # Main Streamlit application
+├── helper.py                       # Chat analysis functions
+├── preprocessor.py                 # Chat parsing and preprocessing
+├── bg.jpeg                         # Background image
+├── stop_hinglish.txt               # Custom stopword list
+├── requirements.txt                # Project dependencies
+├── README.md                       # Project documentation
+├── mini_proj_mentalBERT.ipynb      # Model training notebook
+├── whatsapp_chat_analysis.ipynb    # Chat analysis notebook
 ```
 
 ---
